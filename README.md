@@ -8,6 +8,8 @@ The goal of this project is to produce a safe and secure indoor
   * Minimal cutting, drilling, and trigonometry
   * Parts are readily available at local home improvement stores or online
   * Can be disassembled and reassembled easily
+  * Have an internal footprint of a 5'x8' rug
+  * Have a minimum of 6 sq foot playspace in the middle
 
 ## Current design
 
