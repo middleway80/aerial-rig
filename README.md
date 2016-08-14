@@ -1,6 +1,6 @@
 # Open Aerial Rig
 
-*** Warning:*** This is a work in progress.
+**Warning** This is a work in progress.
 
 The goal of this project is to produce a safe and secure indoor
 "aerial rig" with the following goals:
@@ -20,6 +20,15 @@ The current design uses the [Easy 1-2-3 A-Frame Swing Set Bracket](http://www.ea
 This bracket is not available at a local home improvement store but
 makes construction extremely easy.
 
+### Bill of Materials
+
+| Part # | Qty | Part Name                            | MFG                | MFG Sku | Price (w/o tax)   | Source |
+| ------ | --- | ------------------------------------ | ------------------ | ------- | -------- | --- |
+| 1      |  2  | [Easy 1-2-3 A-Frame Swing Set Bracket](https://www.amazon.com/Eastern-Jungle-Gym-Frame-Bracket/dp/B005KUL00O) | Eastern Jungle Gym | ??? | $85.98 | Amazon |
+| 2      |  4  | 4" x 4" x 8' | Home Depot | ??? | $ ??.?? | Home Depot |
+| 3      |  1  | 4" x 6" x 8' | Home Depot | ??? | $ ??.?? | Home Depot |
+|    -   |  -  |      -       |      -     |  -  |    -    |      -     | 
+|        |     |  **Total**       |            |     | **$ ??.??** |            |
 ## TODO: 
 * Design a reusable fasteners to replace the 14 5/16" x 3" lag bolts recommended by Eastern Jungle Gym
 * Construction instructions
