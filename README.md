@@ -20,4 +20,6 @@ The current design uses the [Easy 1-2-3 A-Frame Swing Set Bracket](http://www.ea
 This bracket is not available at a local home improvement store but
 makes construction extremely easy.
 
-TODO: Construction instructions
+## TODO: 
+* Design a reusable fasteners to replace the 14 5/16" x 3" lag bolts recommended by Eastern Jungle Gym
+* Construction instructions
